@@ -6,7 +6,7 @@ body{
     font-family: sans-serif;
     height: 100vh;
     justify-content: center;
-    background: url("https://images.unsplash.com/photo-1475924156734-496f6cac6ec1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fG5hdHVyZXxlbnwwfDB8MHx8&auto=format&fit=crop&w=800&q=60");
+    background: rgb(154, 214, 248);
     background-size: cover;
     background-attachment: fixed;
     overflow: hidden;
